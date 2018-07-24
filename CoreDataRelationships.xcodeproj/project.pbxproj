@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49444E9B21079D970052A881 /* SearchScope.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49444E9A21079D970052A881 /* SearchScope.swift */; };
 		49C5A93720F91E62009F2D15 /* DocumentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C5A93620F91E62009F2D15 /* DocumentsViewController.swift */; };
 		49C5A93A20F91E62009F2D15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49C5A93820F91E62009F2D15 /* Main.storyboard */; };
 		49C5A93D20F91E62009F2D15 /* CoreDataRelationships.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 49C5A93B20F91E62009F2D15 /* CoreDataRelationships.xcdatamodeld */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		49444E9A21079D970052A881 /* SearchScope.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScope.swift; sourceTree = "<group>"; };
 		49C5A93120F91E61009F2D15 /* CoreDataRelationships.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataRelationships.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49C5A93620F91E62009F2D15 /* DocumentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentsViewController.swift; sourceTree = "<group>"; };
 		49C5A93920F91E62009F2D15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				49C5A94D20F92656009F2D15 /* NewCategoryViewController.swift */,
 				49C5A93620F91E62009F2D15 /* DocumentsViewController.swift */,
 				49C5A94B20F925D6009F2D15 /* NewDocumentViewContoller.swift */,
+				49444E9A21079D970052A881 /* SearchScope.swift */,
 				49C5A93820F91E62009F2D15 /* Main.storyboard */,
 				49C5A93E20F91E63009F2D15 /* Assets.xcassets */,
 				49C5A94020F91E63009F2D15 /* LaunchScreen.storyboard */,
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49C5A94A20F9254B009F2D15 /* CategoryViewController.swift in Sources */,
+				49444E9B21079D970052A881 /* SearchScope.swift in Sources */,
 				49C5A94E20F92656009F2D15 /* NewCategoryViewController.swift in Sources */,
 				49C5A95420F92A13009F2D15 /* Document+CoreDataProperties.swift in Sources */,
 				49C5A94C20F925D6009F2D15 /* NewDocumentViewContoller.swift in Sources */,
